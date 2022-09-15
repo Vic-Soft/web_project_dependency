@@ -1,0 +1,8 @@
+# For text file normalizations ie conversion of CRLF to LF in the git repository
+*	text=auto
+
+# For setting a customized diff qualifier for specified binary files to use the exiftool
+*.jpg	diff=exif
+
+# For setting customized clean and smudge filter qualifier for specified files
+*.js	filter=functionUpdate
