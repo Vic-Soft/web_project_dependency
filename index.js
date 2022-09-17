@@ -14,4 +14,4 @@ function callKey(pundit) {
 }
 
 callKey("This is the classfied key:");
-let stdout = document.getElementsByClassName("asap")[0].innerHTML= callKey("This is the classfied key:") ` ${secureKey}`;
+let stdout = document.getElementsByClassName("asap")[0].innerHTML= `${callKey("This is the classfied key:")} ${ secureKey}`;
