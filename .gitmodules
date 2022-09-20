@@ -1,0 +1,3 @@
+[submodule "web_project_dependency_nested"]
+	path = web_project_dependency_nested
+	url = https://github.com/Chibuike-Mba/web_project_dependency_nested.git
